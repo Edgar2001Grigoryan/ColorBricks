@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string-array name="edgar">
+        <item>btn1</item>
+        <item>btn2</item>
+        <item>btn3</item>
+        <item>btn4</item>
+        <item>btn5</item>
+        <item>btn6</item>
+        <item>btn7</item>
+        <item>btn8</item>
+        <item>btn9</item>
+        <item>btn10</item>
+        <item>btn11</item>
+        <item>btn12</item>
+        <item>btn13</item>
+        <item>btn14</item>
+        <item>btn15</item>
+        <item>btn16</item>
+        <item>btn17</item>
+        <item>btn18</item>
+        <item>btn19</item>
+        <item>btn20</item>
+        <item>btn21</item>
+        <item>btn22</item>
+        <item>btn23</item>
+        <item>btn24</item>
+        <item>btn25</item>
+    </string-array>
+</resources>
